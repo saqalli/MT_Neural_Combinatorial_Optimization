@@ -271,7 +271,7 @@ def eval_dataset(instance_names, method, args, opt_values, rerun=True, max_trial
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='')
-    parser.add_argument('--model_path', type=str, default='pretrained/25.pt', help='')
+    parser.add_argument('--model_path', type=str, default='pretrained/lilim_pdptw_neurolkh.pt', help='')
     parser.add_argument('--n_samples', type=int, default=22, help='')
     parser.add_argument('--lkh_trials', type=int, default=10000, help='')
     parser.add_argument('--neurolkh_trials', type=int, default=10000, help='')
