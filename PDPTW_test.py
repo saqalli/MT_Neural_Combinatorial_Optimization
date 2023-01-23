@@ -242,7 +242,7 @@ def eval_dataset(dataset_filename, method, args, rerun=True, max_trials=1000):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='')
     parser.add_argument('--dataset', type=str, default='CVRPTW_test/pdptw_40.pkl', help='')
-    parser.add_argument('--model_path', type=str, default='pretrained/pdptw_neurolkh_2.pt', help='')
+    parser.add_argument('--model_path', type=str, default='pretrained/pdptw_neurolkh.pt', help='')
     parser.add_argument('--n_samples', type=int, default=1000, help='')
     parser.add_argument('--batch_size', type=int, default=100, help='')
     parser.add_argument('--lkh_trials', type=int, default=1000, help='')
