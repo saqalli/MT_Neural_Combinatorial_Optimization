@@ -1,0 +1,5 @@
+PROBLEM_FILE = result/cvrp_1500/cvrp/60.cvrp
+MAX_TRIALS = 1000
+SPECIAL
+RUNS = 1
+SEED = 1234
