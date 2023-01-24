@@ -1,0 +1,7 @@
+PROBLEM_FILE = gh_data/RC1_8_10.800.72.vrptw
+MAX_TRIALS = 10000
+SPECIAL
+RUNS = 1
+OPTIMUM = 28173000.0
+SEED = 1234
+CANDIDATE_FILE = result/gh_cvrptw_scaled/candidate/RC1_8_10.800.72.txt
