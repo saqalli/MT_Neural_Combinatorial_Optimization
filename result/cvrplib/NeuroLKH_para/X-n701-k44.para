@@ -1,0 +1,7 @@
+PROBLEM_FILE = cvrplib_data/X-n701-k44.vrp
+MAX_TRIALS = 10000
+SPECIAL
+RUNS = 1
+OPTIMUM = 81923
+SEED = 1234
+CANDIDATE_FILE = result/cvrplib/candidate/X-n701-k44.txt

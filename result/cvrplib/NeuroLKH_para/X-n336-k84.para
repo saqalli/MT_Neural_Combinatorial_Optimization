@@ -1,0 +1,7 @@
+PROBLEM_FILE = cvrplib_data/X-n336-k84.vrp
+MAX_TRIALS = 10000
+SPECIAL
+RUNS = 1
+OPTIMUM = 139111
+SEED = 1234
+CANDIDATE_FILE = result/cvrplib/candidate/X-n336-k84.txt

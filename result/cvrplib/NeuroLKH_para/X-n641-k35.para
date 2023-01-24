@@ -1,0 +1,7 @@
+PROBLEM_FILE = cvrplib_data/X-n641-k35.vrp
+MAX_TRIALS = 10000
+SPECIAL
+RUNS = 1
+OPTIMUM = 63682
+SEED = 1234
+CANDIDATE_FILE = result/cvrplib/candidate/X-n641-k35.txt
