@@ -1,0 +1,7 @@
+PROBLEM_FILE = lilim_data/lc103.pdptw
+MAX_TRIALS = 10000
+SPECIAL
+RUNS = 1
+OPTIMUM = 1035349.9999999999
+SEED = 1234
+CANDIDATE_FILE = result/lilim_pdptw/candidate/lc103.txt
