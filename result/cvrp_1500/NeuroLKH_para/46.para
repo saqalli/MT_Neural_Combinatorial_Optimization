@@ -1,0 +1,7 @@
+PROBLEM_FILE = result/cvrp_1500/cvrp/46.cvrp
+MAX_TRIALS = 1000
+SPECIAL
+RUNS = 1
+SEED = 1234
+SUBGRADIENT = NO
+CANDIDATE_FILE = result/cvrp_1500/candidate/46.txt
