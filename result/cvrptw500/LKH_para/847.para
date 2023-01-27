@@ -1,0 +1,5 @@
+PROBLEM_FILE = result/cvrptw_500/cvrptw/847.cvrptw
+MAX_TRIALS = 1000
+SPECIAL
+RUNS = 1
+SEED = 1234
